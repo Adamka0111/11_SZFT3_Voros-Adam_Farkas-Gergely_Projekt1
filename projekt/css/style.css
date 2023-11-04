@@ -1,0 +1,17 @@
+body{
+    background-color: #354649 ;
+}
+#main{
+    background-color: #C3E0E5 ;
+}
+h1{
+    text-align: center;
+}
+footer{
+    font-size: large;
+    height: 40px;
+    width: 100%;
+    background-color: rgb(32, 37, 41);
+    color: white;
+    text-align: center;
+}
