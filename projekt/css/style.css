@@ -2,6 +2,7 @@ body{
     background-color: #354649 ;
     font-size: large;
     text-align: justify;
+
 }
 #main{
     background-color: #C3E0E5 ;
@@ -20,7 +21,7 @@ footer{
 img{
     max-height: 250px;
 }
-#osszefoglalo{
+#behuz{
     margin-left: 40px;
 }
 
@@ -30,4 +31,5 @@ img{
 
 #munka{
     margin-right: 40px;
+    margin-left: 40px;
 }
