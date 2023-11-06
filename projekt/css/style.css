@@ -5,7 +5,6 @@ body{
     background-size: cover;
     font-size: large;
     text-align: justify;
-
 }
 #main{
     background-color: rgb(194 224 229/75%);
@@ -28,7 +27,6 @@ img{
     max-height: 250px;
     margin-left: auto;
     margin-right: auto;
-    display: block;
     border-radius: 10px;
 }
 #behuz{
@@ -63,4 +61,8 @@ header{
 
 .navbar-brand{
     padding-left: 10px;
+}
+
+figcaption{
+    text-align: center;
 }
